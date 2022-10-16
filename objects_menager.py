@@ -1,6 +1,5 @@
 
-# made by Andrea Leone
-
+# made by Andry-lyon
 # this product is free to use
 
 class objectList:
